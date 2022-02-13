@@ -1,5 +1,6 @@
 # 依赖包安装 python3环境
 
+```bash
 yum -y install gcc-c++
 yum -y install krb5-devel
 yum -y install python3
@@ -17,3 +18,4 @@ pip3 install thrift-sasl==0.4.3
 pip3 install pykerberos==1.2.1
 pip3 install pyhive
 pip3 install happybase
+```
